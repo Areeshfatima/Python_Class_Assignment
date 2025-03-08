@@ -9,3 +9,9 @@
 # 5. Mapping Type: Dictionary(dict).
 # 6. None Type : None(none).
 # 7. Binary Types: Bytes(bytes) , Bytearray(bytearray) , MemoryView(memoryview).
+
+
+# Keywords:
+# Keywords in Python are reserved words that have special meanings and cannot be used as variable names, function names, or identifiers.
+# Python has a set of built-in keywords that define the syntax and structure of the language.
+
