@@ -1,0 +1,7 @@
+Learning File Hadling!
+Using all its functions.
+open()
+read()
+write()
+close()
+using with for safety and close file automatically.
